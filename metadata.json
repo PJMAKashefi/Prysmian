@@ -1,0 +1,6 @@
+{
+  "name": "Onshore HV Cable Project Workspace",
+  "description": "Professional engineering learning workspace and project delivery platform for onshore high-voltage power grid and cable connection projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
